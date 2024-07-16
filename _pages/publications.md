@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
+
 **CellFlows: Inferring Splicing Kinetics from Latent and Mechanistic Cellular Dynamics**
 Sei Chang, **Zaiqian Chen**, Bianca Dumitrascu, David A. Knowles  
 _Accepted at the 1st Machine Learning for Life and Material Sciences Workshop at ICML 2024._
