@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ting Chen and I recently completed my Master's degree at Columbia University, studying Computer Science. I'm broadly interested in Bayesian statistics and neural network training dynamics as well as applications in the life sciences. I previously worked on argument mining within the field of natural language processing and am currently a machine learning engineer.
+Hi! My name is Ting and I'm an incoming PhD student in the Columbia Statistics department. I'm broadly interested in Bayesian statistics and neural network training dynamics as well as applications in the life sciences. I previously worked on argument mining within the field of natural language processing and was a machine learning engineer working on recommendation systems.
