@@ -6,6 +6,21 @@ author_profile: true
 ---
 {% include base_path %}
 
+**The Role of Quantization in Loss Spikes**<br>
+**Zaiqian Chen**, Aditya Somasundaram, Sophie Li, Sean McLeish, John Kirchenbauer, Tom Goldstein and Micah Goldblum<br>
+_arXiv preprint. 2026._
+<p style="text-decoration:underline;"><a href="https://arxiv.org/abs/2610.38277">Paper</a></p>
+
+**Recovering Wasted Compute in Autoresearch Agents**<br>
+Au Kwok Chun, Abhigyan Acherjee, Amrutha Rao, **Zaiqian Chen**, Kazem Meidani, C. Bayan Bruss and Micah Goldblum<br>
+_In Proceedings of the Conference on Language Modeling (COLM). 2026._
+<p style="text-decoration:underline;"><a href="https://openreview.net/forum?id=F5ajYXqGwb">Paper</a></p>
+
+**End-to-End Context Compression at Scale**<br>
+Ang Li, Sean McLeish, Haozhe Chen, Nimit Kalra, **Zaiqian Chen**, Artem Gazizov, Venkata Anoop Suhas Kumar Morisetty, Bhavya Kailkhura, Harshitha Menon, Zhuang Liu, Brian R. Bartoldson, Tom Goldstein, Sanae Lotfi, Micah Goldblum and Pavel Izmailov<br>
+_arXiv preprint. 2026._
+<p style="text-decoration:underline;"><a href="https://arxiv.org/abs/2606.09659">Paper</a></p>
+
 **CellFlows: Inferring Splicing Kinetics from Latent and Mechanistic Cellular Dynamics**
 Sei Chang, **Zaiqian Chen**, Bianca Dumitrascu, David A. Knowles  
 _Accepted at the 1st Machine Learning for Life and Material Sciences Workshop at ICML 2024._
